@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
- A Responsive Front Page, <a href="https://victorurbanfashion.netlify.app/">click here to access the page</a>
+ A Responsive Front Page, <a href="https://victorplacestogo.netlify.app/">click here to access the page</a>
 </h4>
 
 <img align="center" src="https://i.imgur.com/kW7qvcH.png.;" alt="site image"/>
